@@ -1,0 +1,1 @@
+Displays a simple HTML file for the whole world to see
